@@ -1,0 +1,9 @@
+Location,Type,Annual_Rainfall_mm,Rooftop_C_low,Rooftop_C_high,Paved_C_low,Paved_C_high,Pervious_C_low,Pervious_C_high,Rainfall_source,RunoffC_source
+Mumbai (Colaba),City,2213.4,0.8,0.95,0.8,0.95,0.05,0.3,https://en.wikipedia.org/wiki/Climate_of_Mumbai,https://nwm.gov.in/sites/default/files/IS-15797-Rainwater_Haresting_Roof_Top.pdf; https://mohua.gov.in/VolumeI-Part%20A-Engineering-Design.pdf
+Pune (district avg),City/District,675.0,0.75,0.9,0.75,0.95,0.1,0.35,https://pune.gov.in/en/about-pune/district-at-a-glance/,https://mohua.gov.in/VolumeI-Part%20A-Engineering-Design.pdf
+New Delhi,City,774.4,0.75,0.9,0.75,0.95,0.05,0.3,https://en.wikipedia.org/wiki/Climate_of_Delhi,https://nwm.gov.in/sites/default/files/IS-15797-Rainwater_Haresting_Roof_Top.pdf
+Bengaluru,City,1077.8,0.75,0.9,0.7,0.95,0.1,0.35,https://en.wikipedia.org/wiki/Bengaluru,https://mohua.gov.in/VolumeI-Part%20A-Engineering-Design.pdf
+Chennai,City,1400.0,0.75,0.9,0.7,0.95,0.05,0.3,https://en.wikipedia.org/wiki/Geography_of_Chennai,https://nwm.gov.in/sites/default/files/IS-15797-Rainwater_Haresting_Roof_Top.pdf
+Surat,City,1243.4,0.75,0.9,0.75,0.95,0.05,0.3,https://en.wikipedia.org/wiki/Surat,https://mohua.gov.in/VolumeI-Part%20A-Engineering-Design.pdf
+Bhopal (representing Madhya Pradesh),City/State_rep,1101.0,0.7,0.9,0.65,0.95,0.05,0.35,https://en.wikipedia.org/wiki/Bhopal,https://mohua.gov.in/VolumeI-Part%20A-Engineering-Design.pdf
+Meghalaya (state avg / Shillong),State/RepresentativeCity,3979.3,0.75,0.95,0.7,0.95,0.1,0.4,https://mausam.imd.gov.in/imd_latest/contents/pdf/pubbrochures/Meteorological%20Centre%20Shillong.pdf,https://nwm.gov.in/sites/default/files/IS-15797-Rainwater_Haresting_Roof_Top.pdf
